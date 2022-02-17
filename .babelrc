@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    ["./babel/plugin", {
+      "tips": "newTips" // /babel/plugin.js 文件中 state的内容
+    }]
+  ]
+}
