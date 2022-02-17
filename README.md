@@ -9,7 +9,7 @@
 - 将MemberExpression 对应的内容替换
 NOOD_ENV=production ./node_modules/.bin/babel ./babel/index.js -o ./babel/output.js
 
-- 自定义混淆代码
+- 自定义混淆代码[fail]
 node ./myCode/myTransfer.js
 
 - demo[fail]
