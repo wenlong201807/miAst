@@ -175,7 +175,7 @@ function transformer(ast) {
   ast._context = newAst.body;
 
   // https://portal.shadowsocks.nz/aff.php?aff=34714
-  // 最大电子图书 https://z-lib.org/
+  // 最大电子图书管 https://z-lib.org/
   // babel es6 -> es5 代码转换处理
   // [ast在线网站](https://astexplorer.net/)
   DFS(ast, {
